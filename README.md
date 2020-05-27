@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react app that uses QRReader component.
+In order to play with it locally you should connect your device in Chrome as described [here](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server)
 
 ## Available Scripts
 
